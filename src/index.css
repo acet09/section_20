@@ -48,3 +48,19 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+main {
+  margin: 2rem auto;
+  text-align: center;
+  color: goldenrod;
+}
+
+a {
+  color: #f4f3f1;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f55;
+  transition: color .2s ease-in-out;
+}
